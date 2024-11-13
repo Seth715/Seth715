@@ -4,7 +4,7 @@ I’m a passionate creator and a Computer Science & Cyber Security major at Ange
 
 💻 Currently Exploring:
 
-	•	Programming Languages: C++, Python, Assembly, JavaScript, HTML, CSS
+	•	Programming Languages: C++, Python, Assembly, JavaScript, HTML, CSS, C# and XAML
 	•	Web Development: Front-end and back-end, aiming to build user-friendly and responsive applications
 
 🎯 Interests:
